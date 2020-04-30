@@ -2,6 +2,11 @@
 
 Backend API for the Bootcamp application which is a bootcamp directory website.
 
+## The app is currently live at
+```
+https://ishansbootcamp.live/
+```
+
 
 ## Usage
 
