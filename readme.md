@@ -14,7 +14,6 @@ Rename "config/config.env.env" to "config/config.env" and update the values/sett
 
 ## Install Dependencies
 ```
-
 npm install
 ```
 
@@ -32,14 +31,10 @@ npm start
 * [NodeJs](https://nodejs.org/en/docs/)
 * [Express](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com/)
+* [Docgen](https://github.com/thedevsaddam/docgen)
 
 
 ## Authors
 
 * **Ishan Madan** - (https://github.com/ishanmadan1996)
-
-
-Version 1.0.0
-
-License: MIT
 
